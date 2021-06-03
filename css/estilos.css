@@ -18,7 +18,7 @@ header a {
     color: inherit;
 }
 
-.menu {
+.element_menu {
     position: absolute;
     right: 0;
     top: 5%;
@@ -27,7 +27,7 @@ header a {
     justify-content: space-around; 
 }
 
-.menu_nome {
+.element_menu_nome {
     position: absolute;
     top: 3%;
     left: 1%;
