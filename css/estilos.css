@@ -33,6 +33,25 @@ header a {
     left: 1%;
 }
 
-main {
-    margin-inline-start: 10%;
+.element_img_erico {
+    float: right;
+    width: 400px;
+    height: 500px;
+    margin: 0% 1% 0% 2%;
+}
+
+.element_title_main {
+    text-align: center;
+}
+
+.element_title {
+    margin: 2% 0% 2% 0%;
+}
+
+p {
+    text-align: justify;
+}
+
+.element_subtitle {
+    margin: 1% 0% 1% 0%;
 }
