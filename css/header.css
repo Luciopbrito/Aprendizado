@@ -1,0 +1,35 @@
+body, html{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #84a98c;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    background-color: #354f52;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+.element_menu {
+    position: absolute;
+    right: 0;
+    top: 5%;
+    width: 50%;
+    display: flex;
+    justify-content: space-around; 
+}
+
+nav a:hover {
+    color: #e08e45;
+}
+
+.element_menu_nome {
+    position: absolute;
+    top: 3%;
+    left: 1%;
+}
