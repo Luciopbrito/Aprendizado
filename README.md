@@ -3,4 +3,4 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Luciopbrito/Aprendizado)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Luciopbrito/Aprendizado)
 # Aperfeiçoar Conhecimento no GitHub
-Sou iniciante nessa plataforma, o objetivo aqui é fazer commits e para melhora a estrutura da página
+Sou iniciante nessa plataforma, o objetivo aqui é fazer commits e para melhora a estrutura da página.
